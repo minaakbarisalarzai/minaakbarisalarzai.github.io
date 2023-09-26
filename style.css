@@ -1,0 +1,17 @@
+body{
+    background_color: lightblue;
+
+}
+
+p{
+    color: darkblue;
+    font_family: 'Courier';
+    font_size: 16px;
+
+}
+
+hi{
+    color:darkblue;
+    font_family: Verdana;
+    font_size: 20px;
+}
